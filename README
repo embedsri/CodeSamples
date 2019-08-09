@@ -1,0 +1,24 @@
+AUTHOR: Sriram Chadalavada
+Email: sriram.chadalavada@mindleap.ca
+
+Unzip instructions
+------------------
+Use Winzip if on Windows.
+Use File Extractor if on Ubuntu.
+
+Build instructions
+------------------
+From the shell, enter the release directory.
+0. cd release
+From the shell, build the C++ source file.
+1. g++  -o "Sunnybrook_interview"  ./Greyscale.cpp   `pkg-config --libs opencv` -std=c++17 -pthread
+
+
+Execution instructions
+----------------------
+This program has been tested on Ubuntu 16.04 LTS. It extensively uses opencv, standard C++ library and pthreads.
+
+1. On the shell, run the command ./Sunnybrook_interview
+2. Enter the full image file name on the prompt.
+3. Wait for a few seconds before the original image and gaussian blurred images show up.
+4. Close the image windows and see the total energy value.
