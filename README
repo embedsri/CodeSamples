@@ -11,7 +11,7 @@ Build instructions
 From the shell, enter the release directory.
 0. cd release
 From the shell, build the C++ source file.
-1. g++  -o "Sunnybrook_interview"  ./Greyscale.cpp   `pkg-config --libs opencv` -std=c++17 -pthread
+1. g++  -o "GBlur_Gaussian"  ./Greyscale.cpp   `pkg-config --libs opencv` -std=c++17 -pthread
 
 
 Execution instructions
