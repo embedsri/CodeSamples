@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 __author__ = "Sriram Uma Chadalavada"
-__copyright__ = "Copyright 2019, t"
+__copyright__ = "Copyright 2019"
 __credits__ = [""]
 __license__ = "GPL"
 __version__ = "1.0.1"
