@@ -1,10 +1,10 @@
 #! /usr/bin/env python3
 __author__ = "Sriram Uma Chadalavada"
 __copyright__ = "Copyright 2019, t"
-__credits__ = ["David Hamp Gonsalves"]
+__credits__ = [""]
 __license__ = "GPL"
 __version__ = "1.0.1"
-__maintainer__ = "Rob Knight"
+__maintainer__ = ""
 __email__ = "sriram.chadalavada@mindleap.ca"
 __status__ = "Prototype"
 
